@@ -80,7 +80,7 @@ It's not necessary, but it can save a lot of manual work and confusion along the
 
 If you understand what the `--onto` flag does in ex6, then think of it this way:
 ```
-git rebase master
+git rebase branchName
 ```
 is equivalent to
 ```
